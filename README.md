@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rutwik, Front-end Developer.</div>  
+### <div align="center">I'm Rutwik, Full Stack MERN Developer.</div>  
   
 
-- 🌱 I’m currently learning NodeJS and ExpressJS  
+- 🌱 Completed many projects on MERN Stack  
   
 
 - ⚡ Fun fact: I use Command over Control  
