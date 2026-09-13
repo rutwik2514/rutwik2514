@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430" role="img" aria-label="Terminal introducing Rutwik Dhale with an animated Kafka to Postgres data pipeline" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3MDliMDRjYi0yY2NiLTRjNWUtOTIwNi0wNTk3ZTYxYzVlNDcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNZVV5zhRvTXoym2sc7VSw4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozZGI3OTJiOC1jYzZiLTQ5NzItYTcwZC1lZDE4YzViNGI1NDNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoZBRkXi4cWCQpaTzYrtOK2AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggG5kpky+JeFodz7zVMwAYY1KqWrQqyBU+ilKRrihk8y+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPVSa0is3/TnTbyXO0DnXrAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIF2ZeHn15wFFsCJOb/rt6WyyO+diH2MmXS7+pTzhNwdRZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEBZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjcwOWIwNGNiLTJjY2ItNGM1ZS05MjA2LTA1OTdlNjFjNWU0Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdhOTFmMzQ0LWQ5MDQtNDY2MC05NDE5LTljZTUxYTEzODc5MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAbmSmTL4l4Wh3PvNUzABhjUqpatCrIFT6KUpGuKGTzL6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggS6jbggxZdoWUEocwpn0Bj8UnnMPnPeb5b6ZrADJJ3AiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggxpCf56rqaXqxLuHjT8rjoR8WCvjWzQ0/8e98OrdaNa10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFxRT/+kN4a0EYMyF3N3EZdIuuz/asUT2fxHA/Xav/IdLzyBZGiO5AJvEi2xphCdZEq7HiPZRj7HBOzpdOxmM90=</c2pa:manifest></metadata>
+  <title>Rutwik Dhale — backend engineer, Go and Kafka data pipelines</title>
+
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .cmd  { fill: #e6edf7; font-size: 15px; }
+      .out  { fill: #9fb0c9; font-size: 15px; }
+      .key  { fill: #00add8; font-size: 15px; }
+      .lbl  { fill: #5c7290; font-size: 15px; }
+      .tiny { fill: #6b819e; font-size: 10px; letter-spacing: .4px; }
+      .node { fill: #e6edf7; font-size: 13px; }
+    </style>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1524"/>
+      <stop offset="1" stop-color="#111b2e"/>
+    </linearGradient>
+
+    <clipPath id="t1"><rect x="142" y="56" width="0" height="24">
+      <animate attributeName="width" begin="0.3s" dur="0.9s" from="0" to="162" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="142" y="114" width="0" height="24">
+      <animate attributeName="width" begin="2.0s" dur="0.9s" from="0" to="144" fill="freeze"/></rect></clipPath>
+    <clipPath id="t3"><rect x="142" y="238" width="0" height="24">
+      <animate attributeName="width" begin="4.2s" dur="1.6s" from="0" to="531" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="920" height="430" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="919" height="429" rx="14" fill="none" stroke="#1d2b45"/>
+
+  <circle cx="26" cy="22" r="5" fill="#2a3a57"/>
+  <circle cx="44" cy="22" r="5" fill="#2a3a57"/>
+  <circle cx="62" cy="22" r="5" fill="#2a3a57"/>
+  <text class="mono tiny" x="460" y="26" text-anchor="middle">rutwik@motive — zsh</text>
+  <line x1="0" y1="42" x2="920" y2="42" stroke="#1d2b45"/>
+
+  <!-- line 1 -->
+  <text class="mono lbl" x="34" y="72">~/profile <tspan class="key">❯</tspan></text>
+  <text class="mono cmd" x="142" y="72" clip-path="url(#t1)">whoami --no-filter</text>
+  <g opacity="1">
+    <animate attributeName="opacity" begin="1.95s" dur="0.01s" to="0" fill="freeze"/>
+    <rect x="304" y="58" width="9" height="17" fill="#00add8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" begin="0.3s" dur="0.9s" from="142" to="304" fill="freeze"/>
+    </rect>
+  </g>
+
+  <text class="mono out" x="34" y="98" opacity="0">
+    Rutwik. I make data go brrr at Motive, mostly in Go.
+    <animate attributeName="opacity" begin="1.4s" dur="0.3s" to="1" fill="freeze"/>
+  </text>
+
+  <!-- line 2 -->
+  <text class="mono lbl" x="34" y="130">~/profile <tspan class="key">❯</tspan></text>
+  <text class="mono cmd" x="142" y="130" clip-path="url(#t2)">cat receipts.txt</text>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="2.0s" dur="0.01s" to="1" fill="freeze"/>
+    <animate attributeName="opacity" begin="4.15s" dur="0.01s" to="0" fill="freeze"/>
+    <rect x="286" y="116" width="9" height="17" fill="#00add8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" begin="2.0s" dur="0.9s" from="142" to="286" fill="freeze"/>
+    </rect>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" begin="3.05s" dur="0.3s" to="1" fill="freeze"/>
+    <text class="mono lbl" x="34" y="156">shipped</text>
+    <text class="mono out" x="133" y="156">9 features in 12 months, zero incidents, no cap</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="3.3s" dur="0.3s" to="1" fill="freeze"/>
+    <text class="mono lbl" x="34" y="178">tuned</text>
+    <text class="mono out" x="133" y="178">a report that took forever now takes 3% of forever</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="3.55s" dur="0.3s" to="1" fill="freeze"/>
+    <text class="mono lbl" x="34" y="200">survived</text>
+    <text class="mono out" x="133" y="200">on-call, 15+ prod fires a month, all of them out</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="3.8s" dur="0.3s" to="1" fill="freeze"/>
+    <text class="mono lbl" x="34" y="222">grinded</text>
+    <text class="mono out" x="133" y="222">ICPC AIR 42, Codeforces Expert, CodeChef 5 star</text>
+  </g>
+
+  <!-- line 3 -->
+  <text class="mono lbl" x="34" y="254">~/profile <tspan class="key">❯</tspan></text>
+  <text class="mono cmd" x="142" y="254" clip-path="url(#t3)">go run ingest.go --topic fuel.transactions  <tspan class="lbl"># watch it cook</tspan></text>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="4.2s" dur="0.01s" to="1" fill="freeze"/>
+    <rect x="673" y="240" width="9" height="17" fill="#00add8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" begin="4.2s" dur="1.6s" from="142" to="673" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- pipeline -->
+  <g transform="translate(0,272)" opacity="0">
+    <animate attributeName="opacity" begin="6.0s" dur="0.5s" to="1" fill="freeze"/>
+
+    <g stroke="#233350" stroke-width="1.5">
+      <line x1="176" y1="71" x2="292" y2="71"/>
+      <line x1="476" y1="71" x2="552" y2="71"/>
+      <line x1="686" y1="71" x2="752" y2="71"/>
+    </g>
+    <g fill="#233350">
+      <polygon points="292,66 300,71 292,76"/>
+      <polygon points="552,66 560,71 552,76"/>
+      <polygon points="752,66 760,71 752,76"/>
+    </g>
+
+    <rect x="30" y="40" width="146" height="62" rx="10" fill="#151f33" stroke="#2a3a57"/>
+    <text class="mono node" x="103" y="66" text-anchor="middle">Apache Kafka</text>
+    <text class="mono tiny" x="103" y="84" text-anchor="middle">fuel.transactions</text>
+
+    <rect x="300" y="22" width="176" height="98" rx="10" fill="#151f33" stroke="#2a3a57"/>
+    <text class="mono tiny" x="314" y="40">go worker pool</text>
+    <g>
+      <rect x="314" y="50" width="148" height="16" rx="4" fill="#00add8" fill-opacity="0.12">
+        <animate attributeName="fill-opacity" values="0.12;0.5;0.12" dur="1.4s" repeatCount="indefinite"/></rect>
+      <rect x="314" y="72" width="148" height="16" rx="4" fill="#00add8" fill-opacity="0.12">
+        <animate attributeName="fill-opacity" values="0.12;0.5;0.12" dur="1.4s" begin="0.45s" repeatCount="indefinite"/></rect>
+      <rect x="314" y="94" width="148" height="16" rx="4" fill="#00add8" fill-opacity="0.12">
+        <animate attributeName="fill-opacity" values="0.12;0.5;0.12" dur="1.4s" begin="0.9s" repeatCount="indefinite"/></rect>
+      <text class="mono tiny" x="322" y="62">goroutine</text>
+      <text class="mono tiny" x="322" y="84">goroutine</text>
+      <text class="mono tiny" x="322" y="106">goroutine</text>
+    </g>
+
+    <rect x="560" y="42" width="126" height="58" rx="10" fill="#151f33" stroke="#2a3a57"/>
+    <text class="mono node" x="623" y="68" text-anchor="middle">Redis</text>
+    <text class="mono tiny" x="623" y="86" text-anchor="middle">cache layer</text>
+
+    <g fill="#151f33" stroke="#2a3a57">
+      <path d="M760,44 v52 a65,11 0 0,0 130,0 v-52 z"/>
+      <ellipse cx="825" cy="44" rx="65" ry="11"/>
+    </g>
+    <text class="mono node" x="825" y="82" text-anchor="middle">PostgreSQL</text>
+
+    <g fill="#f5a524">
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M176,71 H292" dur="1.4s" repeatCount="indefinite"/></rect>
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M176,71 H292" dur="1.4s" begin="0.45s" repeatCount="indefinite"/></rect>
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M176,71 H292" dur="1.4s" begin="0.9s" repeatCount="indefinite"/></rect>
+    </g>
+    <g fill="#00add8">
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M476,71 H552" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M476,71 H552" dur="0.9s" begin="0.45s" repeatCount="indefinite"/></rect>
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M686,71 H752" dur="0.9s" begin="0.2s" repeatCount="indefinite"/></rect>
+      <rect x="-5" y="-5" width="9" height="9" rx="2">
+        <animateMotion path="M686,71 H752" dur="0.9s" begin="0.65s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
