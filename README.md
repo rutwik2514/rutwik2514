@@ -1,3 +1,11 @@
+<!-- The greeter is the only thing visible until someone clicks it. -->
+<details>
+<summary>
+  <img src="./assets/greeter.svg" width="100%" alt="Hey there, want to meet someone special? Click to open." />
+</summary>
+
+<br/>
+
 <div align="center">
   <img src="./assets/hero.svg" alt="Rutwik Dhale — backend engineer building Go and Kafka data pipelines" width="100%" />
 </div>
@@ -127,3 +135,5 @@ Microservice-based RBAC generator in Node.js, Express, and MongoDB that auto-gen
 ## Reach me
 
 Open to backend and distributed systems conversations: [rutwikdhale01@gmail.com](mailto:rutwikdhale01@gmail.com) · [LinkedIn](https://linkedin.com/in/rutwik-dhale-723272228/)
+
+</details>
