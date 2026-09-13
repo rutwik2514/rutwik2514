@@ -1,8 +1,10 @@
-<!-- The greeter is the only thing visible until someone clicks it. -->
+<div align="center">
+  <img src="./assets/greeter.svg" width="100%" alt="Hey there, want to meet someone special?" />
+</div>
+
+<!-- Everything below stays folded away until someone clicks the summary line. -->
 <details>
-<summary>
-  <img src="./assets/greeter.svg" width="100%" alt="Hey there, want to meet someone special? Click to open." />
-</summary>
+<summary><b>&nbsp;&nbsp;yes, show me the good stuff</b></summary>
 
 <br/>
 
